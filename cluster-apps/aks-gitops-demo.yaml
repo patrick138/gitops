@@ -29,7 +29,7 @@ spec:
         - containerPort: 8080
         env:
         - name: APP_COLOR
-          value: green
+          value: red
         resources:
           requests:
             memory: "50Mi"
